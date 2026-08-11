@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-hlc8jb.yoursingles.online/sitemap.xml
